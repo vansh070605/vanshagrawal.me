@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital,wght@1,600;1,700&amp;display=swap');
       
       .circle-bg {
         fill: #4F46E5; /* Solid Indigo for Light Mode */
@@ -9,7 +8,7 @@
       }
       
       .logo-text {
-        font-family: 'Instrument Serif', 'Georgia', serif;
+        font-family: Georgia, 'Times New Roman', serif;
         font-style: italic;
         font-weight: 700;
         fill: #FFFFFF;
